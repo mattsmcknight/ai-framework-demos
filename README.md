@@ -2,7 +2,7 @@
 
 Production-ready algorithm solutions built entirely by AI from a single prompt. Each project in this repository was generated end-to-end -- architecture, implementation, tests, and documentation -- without human intervention beyond the initial instruction. 
 
-For the demo of this system's ability to review and remediate code changes see [https://github.com/mattsmcknight/xai-sdk-python-AI-Review-Demo](https://github.com/mattsmcknight/xai-sdk-python-AI-Review-Demo). Demo includes reports and a PR to demonstrate automated code changes.
+For the demo of this system's ability to review and remediate code changes see [https://github.com/Nousix-LLC/xai-sdk-python-AI-Review-Demo](https://github.com/Nousix-LLC/xai-sdk-python-AI-Review-Demo). Demo includes reports and a PR to demonstrate automated code changes.
 For other domains see the included [ai-system-domain-capabilities.md](ai-system-domain-capabilities.md)
 
 ## What This Demonstrates
